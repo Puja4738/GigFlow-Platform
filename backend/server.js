@@ -24,7 +24,7 @@ const allowedOrigins = [
   'http://localhost:4173',      // ✅ FIXED: Added Vite preview server
   'http://localhost:3000',      // Common dev port
   'http://localhost:5174',      // Alternative dev port
-  'https://gigflow-platform-ms7295.netlify.app',  // Production
+  'https://puja4738-gigflow-platformss.netlify.app',  // Production
 ].filter(Boolean);
 
 console.log('✅ Allowed origins:', allowedOrigins);

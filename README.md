@@ -58,7 +58,7 @@ PORT=5000
 MONGODB_URI=mongodb+srv://gigflow_admin:YTq2WlIq2mXW2Dbj@gigflowcluster.bllygvt.mongodb.net/?appName=GigFlowCluster
 JWT_SECRET=c3b08befefaca97d60fad4926314cf0564ed03ea184ff01c257b373382429452ab694cb17b090914ac592d22bfffb8bd3da5a21619dc6ed4b4989e799221251emin_32_characters_long
 NODE_ENV=development
-CLIENT_URL=https://puja4738gigflow-platform.netlify.app/
+CLIENT_URL=https://puja4738-gigflow-platformss.netlify.app
 ```
 
 ### Frontend (.env)
@@ -81,13 +81,13 @@ VITE_API_URL=https://gigflow-4p7m.onrender.com/
 ## 🚀 Deployment
 
 **Frontend**: Netlify 
-**Frontend URL**:https://puja4738gigflow-platform.netlify.app/              
+**Frontend URL**:https://puja4738-gigflow-platformss.netlify.app            
 **Backend**: Render.com  
 **Backend URL**:https://gigflow-4p7m.onrender.com/           
 **Database**: MongoDB Atlas
 
 
-**Live Link**:https://puja4738gigflow-platform.netlify.app/
+**Live Link**:https://puja4738-gigflow-platformss.netlify.app/
 
 
 ## 📝 API Endpoints
