@@ -58,11 +58,11 @@ PORT=5000
 MONGODB_URI=mongodb+srv://gigflow_admin:YTq2WlIq2mXW2Dbj@gigflowcluster.bllygvt.mongodb.net/?appName=GigFlowCluster
 JWT_SECRET=c3b08befefaca97d60fad4926314cf0564ed03ea184ff01c257b373382429452ab694cb17b090914ac592d22bfffb8bd3da5a21619dc6ed4b4989e799221251emin_32_characters_long
 NODE_ENV=development
-CLIENT_URL=https://gigflow-platform-ms7295.netlify.app/
+CLIENT_URL=https://puja4738gigflow-platform.netlify.app/
 ```
 
 ### Frontend (.env)
-VITE_API_URL=https://gigflow-backend-qfln.onrender.com
+VITE_API_URL=https://gigflow-4p7m.onrender.com/
 ## 📱 Usage
 
 1. Register a new account
@@ -81,13 +81,13 @@ VITE_API_URL=https://gigflow-backend-qfln.onrender.com
 ## 🚀 Deployment
 
 **Frontend**: Netlify 
-**Frontend URL**:https://gigflow-platform-ms7295.netlify.app/                
+**Frontend URL**:https://puja4738gigflow-platform.netlify.app/              
 **Backend**: Render.com  
-**Backend URL**https://gigflow-backend-qfln.onrender.com            
+**Backend URL**:https://gigflow-4p7m.onrender.com/           
 **Database**: MongoDB Atlas
 
 
-**Live Link**:https://gigflow-platform-ms7295.netlify.app/
+**Live Link**:https://puja4738gigflow-platform.netlify.app/
 
 
 ## 📝 API Endpoints
@@ -114,8 +114,8 @@ VITE_API_URL=https://gigflow-backend-qfln.onrender.com
 
 ## 👨‍💻 Author
 
-Mayank Shekhar
-Email: mayankshekhar0303@gmail.com
-LinkedIn:https://www.linkedin.com/in/mayank-shekhar-44a81328a/
-GitHub:https://github.com/Mayank3847                   
-Contact:7295059168
+Puja Kumari
+Email: puja843230303@gmail.com
+LinkedIn:https://www.linkedin.com/in/puja-kumari-4ba885250/
+GitHub:https://github.com/Puja4738                  
+Contact:6200834631
